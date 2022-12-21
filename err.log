@@ -1,0 +1,7 @@
+找不到命令“lll”，您的意思是：
+  command 'dll' from deb brickos (0.9.0.dfsg-12.2)
+  command 'lli' from deb llvm-runtime (1:14.0-55~exp2)
+  command 'llt' from deb storebackup (3.2.1-2)
+  command 'lld' from deb lld (1:14.0-55~exp2)
+  command 'llc' from deb llvm (1:14.0-55~exp2)
+尝试 sudo apt install <deb name>
